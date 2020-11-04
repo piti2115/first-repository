@@ -1,2 +1,4 @@
 # first-repository
-It is my first repository on GitHub
+
+Hi All!
+Here Piotr, I like HTML, CSS, JavaScript, PHP!
